@@ -1,5 +1,5 @@
 # Active shape from projection defocus profilometry
-Author: Yi Zheng</sup>1, Yajun Wang <sup>2,*</sup>, and Beiwen Li<sup>1, *</sup>
+Author: Yi Zheng</sup>1</sub>, Yajun Wang <sup>2,*</sup>, and Beiwen Li<sup>1, *</sup>
 
 1 Department of Mechanical Engineering, Iowa State University, Ames, IA 50011, USA
 
